@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+:root{
+    --primary:black;
+    --fontcolor:#fff;
+}
+
+body{
+    background-color: black !important;
+}
+
+.input_data{
+    padding: 10px;
+    color: black !important;
+}
+
+.card{
+    color:black !important;
+}
